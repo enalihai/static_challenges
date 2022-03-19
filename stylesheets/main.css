@@ -1,0 +1,41 @@
+header {
+  color:white;
+  font-style:normal;
+  background-color:red;
+}
+
+h2 {
+  color:white;
+  background-color:grey;
+  text-decoration-line:underline;
+  text-align:right;
+  word-spacing:20px
+}
+
+h3 {
+  padding-top:5px;
+  text-align:right;
+  font-weight:bold;
+}
+
+h3.titleText {
+  text-align:left;
+}
+
+.floatRight{
+  float:right;
+  clear:right;
+  margin-left:20px;
+}
+
+body {
+  width:1300px;
+  border: 1px white;
+  padding:20px;
+  margin:5px;
+}
+
+footer {
+  color:white;
+  background-color:grey;
+}
